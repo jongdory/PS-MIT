@@ -28,7 +28,7 @@ pip install torch-fidelity --no-deps
 
 ## Train
 
-For the BraTS dataset, the model is trained as flow matching models that generates images in which each sample has four channels, corresponding to different modalities (T1, T2, T1ce, FLAIR). 
+The model is trained as a flow matching model that generates images in which each sample has four channels, corresponding to different modalities (T1, T2, T1ce, FLAIR). 
 
 
 ```bash
