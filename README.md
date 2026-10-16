@@ -1,7 +1,7 @@
 # Paper
 [ECCV 2026] Posterior Samplings are Missing Modalities Generators for Medical Image Translation <br>
 
-[![arXiv](https://img.shields.io/badge/arXiv-2607.18763-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2607.18763)<br>
+ [![arXiv](https://img.shields.io/badge/ECCV-2026-0F75BC.svg?style=plastic)](https://link.springer.com/chapter/10.1007/978-3-032-37242-0_13) [![arXiv](https://img.shields.io/badge/arXiv-2607.18763-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2607.18763)<br>
 
 ## Overview
 
